@@ -10,6 +10,14 @@ The application follows a layered structure:
 
 • Service: Contains business validation logic and formatting.
 
+# Assumptions Made
+
+1. Only standard English alphabet characters (A–Z) are considered valid.
+
+2. Whitespaces at the start and the end are ignored.
+
+3. No response formatting is required
+
 # Running the Application
 1. Clone the repository
 
